@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "name": "employee_static_list_crud",
+  "version": "1.0.0",
+  "description": "employee_static_list_crud",
+  "main": "employees_crud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj Mhaske",
+  "license": "ISC"
+}
